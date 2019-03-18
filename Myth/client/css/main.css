@@ -1,0 +1,20 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+
+footer {
+  background-color: #373a3f;
+  color: #ADADAD;
+  margin-top: 5em;
+}
+
+footer img {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  width:120px;height:150px
+}
