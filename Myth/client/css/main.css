@@ -1,10 +1,9 @@
-/*new*/
-@import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
+@import url(http://fonts.googleapis.com/css?family=Oxygen);
 
 body
 {
 background: #000000 url(../img/background.jpg) fixed;
-background-size: cover;
+font: 13px Arial, Helvetica, sans-serif;
 
 }
 
@@ -15,20 +14,20 @@ background-size: cover;
 
 .my_logo
 {
-padding-top: 20px;
+padding-top: 30px;
 }
 .my_logo a, .my_logo a:hover
 {
-font: 35px 'Noto Sans TC', sans-serif;
+font: 35px 'Oxygen', sans-serif;
 color: #fff;
-text-decoration: none; //讓底線消失
+text-decoration: none
 }
 
 .my_slogan
 {
 text-transform: uppercase;
-padding-left: 80px;
-font: 16px 'Noto Sans TC', sans-serif;
+padding-left: 120px;
+font: 12px 'Oxygen', sans-serif;
 color: #fff;
 }
 
@@ -42,7 +41,7 @@ margin-top: 30px;
 background: #222 url(../images/menu_2.png) repeat-x top;
 -webkit-border-radius: 20px 20px 20px 20px;
 border-radius: 20px 20px 20px 20px;
-font: 14px 'Noto Sans TC', sans-serif;
+font: 14px 'Oxygen', sans-serif;
 }
 
 
@@ -97,7 +96,7 @@ min-width: 208px;
 
 .top_h3
 {
-font: 18px 'Noto Sans TC', sans-serif;
+font: 18px 'Oxygen', sans-serif;
 margin:0px;
 padding: 0px;
 }
@@ -119,7 +118,7 @@ h2, h3, h4
 margin: 0px;
 padding: 0px;
 color: #014C92;
-font-family: 'Noto Sans TC', sans-serif;
+font-family: 'Oxygen', sans-serif;
 }
 
 .img_height
@@ -131,7 +130,7 @@ overflow: hidden
 .nav-tabs a
 {
 font-size: 25px;
-font-family: 'Noto Sans TC', sans-serif;
+font-family: 'Oxygen', sans-serif;
 }
 
 .nav-tabs{border-bottom:1px solid #3b9ffc}
